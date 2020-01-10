@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "<Objet Domotique>domo",
-    "slug": "Domo",
+    "name": "Objet Domotique",
+    "slug": "objetdomotique",
     "privacy": "public",
     "sdkVersion": "36.0.0",
     "platforms": [
