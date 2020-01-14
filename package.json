@@ -1,5 +1,7 @@
 {
   "main": "node_modules/expo/AppEntry.js",
+  "proxy": "http://localhost:5000",
+  
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -14,7 +16,9 @@
     "react-dom": "~16.9.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
     "react-native-axios": "^0.17.1",
-    "react-native-web": "~0.11.7"
+    "react-native-gesture-handler": "^1.5.3",
+    "react-native-web": "~0.11.7",
+    "react-navigation": "^1.0.0-beta.23"
   },
   "devDependencies": {
     "babel-preset-expo": "~8.0.0",
